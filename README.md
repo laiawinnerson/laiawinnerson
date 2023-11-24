@@ -20,8 +20,8 @@
 ###
 
 <p align="left">
-  likes cooking, coding, exercising and playing games. <br>
-  suka memasak, ngoding, berolahraga, dan bermain game.
+  Likes cooking, coding, exercising and playing games. <br>
+  Suka memasak, ngoding, berolahraga, dan bermain game.
 </p>
 
 ###
