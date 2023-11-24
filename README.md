@@ -1,20 +1,35 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">
+  Hey 👋 What's up? <br> 
+  Halo 👋 Apa Kabar?
+</h1>
 
 ###
 
-<p align="left">My name is Winnerson Laia and I'm a Informatic Engineering Student, from Indonesia</p>
+<p align="left">
+  My name is Winnerson Laia and I'm a Informatic Engineering Student, from Indonesia. <br> 
+  Nama saya Winnerson Laia dan Saya adalah seorang mahasiswa teknik informatika, saya berasal dari Indonesia.
+</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">
+  About me <br>
+  Tentang saya
+</h2>
 
 ###
 
-<p align="left">likes cooking, coding, exercising and playing games</p>
+<p align="left">
+  likes cooking, coding, exercising and playing games. <br>
+  suka memasak, ngoding, berolahraga, dan bermain game.
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">
+  I code with <br>
+  Saya membuat kode dengan 
+</h2>
 
 ###
 
